@@ -1,0 +1,10 @@
+C:\приложения\Работы\C#\z1pr16SH\bin\Debug\z1pr16SH.exe.config
+C:\приложения\Работы\C#\z1pr16SH\bin\Debug\z1pr16SH.exe
+C:\приложения\Работы\C#\z1pr16SH\bin\Debug\z1pr16SH.pdb
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.csproj.AssemblyReference.cache
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.Form1.resources
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.Properties.Resources.resources
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.csproj.GenerateResource.cache
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.csproj.CoreCompileInputs.cache
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.exe
+C:\приложения\Работы\C#\z1pr16SH\obj\Debug\z1pr16SH.pdb

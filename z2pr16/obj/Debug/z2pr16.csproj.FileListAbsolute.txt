@@ -1,0 +1,7 @@
+C:\приложения\Работы\C#\z2pr16\bin\Debug\z2pr16.exe.config
+C:\приложения\Работы\C#\z2pr16\bin\Debug\z2pr16.exe
+C:\приложения\Работы\C#\z2pr16\bin\Debug\z2pr16.pdb
+C:\приложения\Работы\C#\z2pr16\obj\Debug\z2pr16.csproj.AssemblyReference.cache
+C:\приложения\Работы\C#\z2pr16\obj\Debug\z2pr16.csproj.CoreCompileInputs.cache
+C:\приложения\Работы\C#\z2pr16\obj\Debug\z2pr16.exe
+C:\приложения\Работы\C#\z2pr16\obj\Debug\z2pr16.pdb
